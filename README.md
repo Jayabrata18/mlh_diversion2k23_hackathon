@@ -14,6 +14,8 @@
 <li>NodeJS</li>
 </ul><ul>
 <li>MongoDB</li>
+</ul><ul>
+<li>Socket.io</li>
 </ul><h2>Project Status</h2>
 <hr><p>in progress</p><h2>Improvements</h2>
 <hr><ul>
